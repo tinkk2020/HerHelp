@@ -55,7 +55,7 @@
 
 | 委托人模式 (Client) | 守护者模式 (Provider) | 技能学堂 (Academy) |
 | :---: | :---: | :---: |
-| <img src="docs/client_view.png" width="200" alt="委托人首页" /> | <img src="docs/provider_view.png" width="200" alt="守护者首页" /> | <img src="docs/academy_view.png" width="200" alt="学堂" /> |
+| <img src="https://github.com/tinkk2020/HerHelp/blob/main/sy.png" width="200" alt="委托人首页" /> | <img src="https://github.com/tinkk2020/HerHelp/blob/main/fw.png" width="200" alt="守护者首页" /> | <img src="https://github.com/tinkk2020/HerHelp/blob/main/xt.png" width="200" alt="学堂" /> |
 
 *(注：请将您的UI截图放入 docs 文件夹并替换上方链接)*
 
