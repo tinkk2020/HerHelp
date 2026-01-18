@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150x150?text=HerHelp+Logo" alt="HerHelp Logo" width="120" />
+  <img src="https://github.com/tinkk2020/HerHelp/blob/main/herhelp_logo.png" alt="HerHelp Logo" width="120" />
   <h1>她帮 HerHelp</h1>
   <h3>For Her, By Her. 给生活多一种“她”解法。</h3>
 
